@@ -1,0 +1,7 @@
+[
+{"firstName":"Full","lastName":"Name","email":"Email","password":"jPasswordField1","walletNum":39674578,"accountValue":0,"cash":10000,"portfolio":[]},
+{"firstName":"Mor","lastName":"Ohana","email":"mor@gmail.com","password":"messi123","walletNum":603524001,"accountValue":0,"cash":0,"portfolio":[]},
+{"firstName":"hhuh huhu","lastName":"h","email":"huhu","password":"huhuhuhu","walletNum":856450471,"accountValue":0,"cash":0,"portfolio":[]},
+{"firstName":"mor","lastName":"ohana","email":"a@a.com","password":"qwer1234","walletNum":906803737,"accountValue":0,"cash":0,"portfolio":[]},
+{"firstName":"Mor","lastName":"Ohan","email":"m@a.com","password":"qwer1234","walletNum":717330868,"accountValue":0,"cash":0,"portfolio":[]}
+]
